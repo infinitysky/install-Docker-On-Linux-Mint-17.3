@@ -1,5 +1,5 @@
 #!/bin/bash
-#Special Tanks for sethbergman/Install-Docker-on-Linux-Mint.sh
+#Special Thanks for sethbergman/Install-Docker-on-Linux-Mint.sh
 #https://gist.github.com/sethbergman/bb34cd3aed91a4e87a86
 #This Bash Script is modify from His script.
 #The old script is for install docker 1.6.3
