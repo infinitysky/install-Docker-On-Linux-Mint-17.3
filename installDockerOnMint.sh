@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #To run: 
-#curl -sSL https://bitbucket.org/!api/2.0/snippets/infinitysky/BdMGX/7b5d35e25cc8442d4e3dbd1c7ebf2c74f5bb9746/files/installDockerOnMint.sh | bash -x
+#curl -sSL 'https://bitbucket.org/api/2.0/snippets/infinitysky/BdMGX/7b5d35e25cc8442d4e3dbd1c7ebf2c74f5bb9746/files/installDockerOnMint.sh' | bash -x
 
 #Special Thanks for sethbergman/Install-Docker-on-Linux-Mint.sh
 #https://gist.github.com/sethbergman/bb34cd3aed91a4e87a86
