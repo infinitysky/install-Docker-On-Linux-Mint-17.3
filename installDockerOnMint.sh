@@ -1,4 +1,7 @@
 #!/bin/bash
+#To run: 
+#curl -sSL https://gist.githubusercontent.com/sethbergman/955f6ad392fff733a62c/raw/41c229998634df722cefdd589da121af624bf2ce/Install-Docker-on-Linux-Mint.sh | bash -x
+
 #Special Thanks for sethbergman/Install-Docker-on-Linux-Mint.sh
 #https://gist.github.com/sethbergman/bb34cd3aed91a4e87a86
 #This Bash Script is modify from His script.
