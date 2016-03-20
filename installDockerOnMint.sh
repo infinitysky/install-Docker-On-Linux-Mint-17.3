@@ -29,7 +29,7 @@ sudo apt-get install -y docker-engine cgroup-lite apparmor
 
 
 echo "Add current current user to Docker Group"
-sudo usermod -a -G docker $USER
+sudo adduser $USER docker 
 
 
 
