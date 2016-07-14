@@ -5,7 +5,7 @@ install Docker On Linux Mint 17.3 and ubuntu 14.04
 To run: 
 * my bitbucket fork
 ```
-curl -sSL 'https://bitbucket.org/api/2.0/snippets/infinitysky/BdMGX/7b5d35e25cc8442d4e3dbd1c7ebf2c74f5bb9746/files/installDockerOnMint.sh' | bash -x
+curl -sSL 'https://raw.githubusercontent.com/infinitysky/install-Docker-On-Linux-Mint-17.3/master/installDockerOnMint.sh' | bash -x
 ```
 
 * or
